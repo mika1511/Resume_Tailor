@@ -1,5 +1,4 @@
 # 🛠️ Resume Tailor
-[ongoing ! hence branch "master" contains frontend and branch "backend" contains backend ]
 **Resume Tailor** is a full‑stack web application designed to help users optimize their resumes for a given job description. Upload your current resume and a job description, and get tailored suggestions on how to adjust your resume to increase relevance!
 
 ---
@@ -19,6 +18,8 @@
 ---
 
 ## 🧱 Tech Stack
+
+[**ongoing ! hence branch "master" contains frontend and branch "backend" contains backend** ]
 
 - **Frontend**: React, Axios (for API calls), CSS Modules
 - **Backend**: Spring Boot, Java, REST APIs
