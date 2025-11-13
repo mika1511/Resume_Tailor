@@ -19,7 +19,7 @@
 
 ## 🧱 Tech Stack
 
-[**ongoing ! hence branch "master" contains frontend and branch "backend" contains backend** ]
+[**branch "master" contains frontend and branch "backend" contains backend** ]
 
 - **Frontend**: React, Axios (for API calls), CSS Modules
 - **Backend**: Spring Boot, Java, REST APIs
